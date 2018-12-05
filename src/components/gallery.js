@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Image} from 'semantic-ui-react'
+import { Container, Image} from 'semantic-ui-react';
 
 import Image1 from "../assets/images/1.png";
 import Image2 from "../assets/images/2.png";
@@ -13,9 +13,9 @@ import Image8 from "../assets/images/8.png";
 import Image9 from "../assets/images/9.png";
 import Image10 from "../assets/images/10.png";
 import Image11 from "../assets/images/11.png";
-import Image12 from "../assets/images/12.png"
-import Image13 from "../assets/images/13.png"
-import Image14 from "../assets/images/14.png"
+import Image12 from "../assets/images/12.png";
+import Image13 from "../assets/images/13.png";
+import Image14 from "../assets/images/14.png";
 import Image15 from "../assets/images/15.png";
 import Image16 from "../assets/images/16.png";
 import Image17 from "../assets/images/17.png";
