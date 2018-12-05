@@ -2,7 +2,7 @@ import React from 'react';
 import {
   Container,
   Menu,
-} from 'semantic-ui-react'
+} from 'semantic-ui-react';
 
 class Footer extends React.Component {
   state = {}
