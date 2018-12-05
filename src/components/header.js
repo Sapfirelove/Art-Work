@@ -1,5 +1,4 @@
 import React from 'react';
-import './navigation.css';
 import { Menu } from 'semantic-ui-react';
 import { NavLink as Link } from 'react-router-dom';
 
@@ -14,7 +13,6 @@ class Header extends React.Component {
     const { activeItem } = this.state
     return (
       <div>
-
           <Menu
             inverted
             size='huge'

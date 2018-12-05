@@ -1,7 +1,7 @@
 import React from 'react';
 import {
   Container,
-  Menu,
+  Menu
 } from 'semantic-ui-react';
 
 class Footer extends React.Component {
@@ -56,7 +56,6 @@ class Footer extends React.Component {
           </Menu.Item>
             <p style={{padding:'2em'}}> © Martha 2018</p>
         </Menu>
-
       </Container>
     </div>
   );

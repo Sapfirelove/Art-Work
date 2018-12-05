@@ -34,7 +34,7 @@ import Image26 from "../assets/images/26.png";
 const Gallery = () => {
   return (
     <Container textAlign='center' style={{marginBottom:'9em'}}>
-        <Image.Group size='medium' >
+        <Image.Group size='medium'>
           <Image src={Image1} rounded />
           <Image src={Image2} rounded />
           <Image src={Image3} rounded />
