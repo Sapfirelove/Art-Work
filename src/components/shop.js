@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Image} from 'semantic-ui-react'
+import { Container, Image} from 'semantic-ui-react';
 
 import Image1 from "../assets/images/AbstractReality.png";
 import Image2 from "../assets/images/AWalkToTheSun.png";
@@ -12,9 +12,9 @@ import Image8 from "../assets/images/GreenNebulaGalaxy.png";
 import Image9 from "../assets/images/IntoTheStarrySky.png";
 import Image10 from "../assets/images/MoonOntheDeep BlueSea.png";
 import Image11 from "../assets/images/MountainOWonder.png";
-import Image12 from "../assets/images/OrbOfGalaxies.png"
-import Image13 from "../assets/images/OvertheMoonWeGo.png"
-import Image14 from "../assets/images/PendantoftheDark.png"
+import Image12 from "../assets/images/OrbOfGalaxies.png";
+import Image13 from "../assets/images/OvertheMoonWeGo.png";
+import Image14 from "../assets/images/PendantoftheDark.png";
 import Image15 from "../assets/images/SkullGalaxy.png";
 import Image16 from "../assets/images/StaryBurst.png";
 import Image17 from "../assets/images/TwistintheUniverse.png";
