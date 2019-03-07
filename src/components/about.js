@@ -25,23 +25,17 @@ const About = () => {
             />
             <Container>
               <p>
-                Hi, my name is Martha. I create artwork, but that
-                is not all I can do.
+                Hi, my name is <span style={{fontSize:"18px", color:"rgb(147, 250, 99)"}}>Martha</span>. I create artwork, but that is not all I can do.
+                First, let me explain how I got into art. I've been drawing since I was able to hold a marker.
+                Yes, my mother's wall was my canvas.
+                It wasn't until I was in middle school that I became really serious about developing my artistic skills.
+                I started showing off my artwork to others, gaining compliments from my peers. I later started exploring
+                different mediums and found I was in love with watercolor.
               </p>
               <p>
-                First let me explain how I got into art.
-                I've been drawing since I was able to hold a marker. My Mother's walls prove that much.
-                It wasn't until I was in middle school that
-                I became really serious about developing my artistic skills.
-                I started showing off my artwork to others, gaining compliments by my peers. Around that time was when
-                I fell in love with watercolor. Don't worry, I did stop scribbling on my Mother's walls at that point,
-                just painted on them instead.
-              </p>
-              <p>
-                After I graduated high school I had to decide my career,
-                I wanted to do more with artistic skills. I combined my passion for
-                computers with my artistic ability and became a Web
-                Developer, by doing so I began coding in 2017 by learning HTML5 and CSS3.
+              	After I graduated high school I had to decide my career, I wanted to do more with artistic skills.
+                I combined my passion for computers with my artistic ability and became a Web Developer,
+                by doing so I began coding in 2017 by learning HTML5 and CSS3.
               </p>
               <p>
                  Currently I am enrolled in WGU (Western Governor University) in their Information Technology

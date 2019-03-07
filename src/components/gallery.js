@@ -28,6 +28,7 @@ import Image23 from "../assets/images/23.png";
 import Image24 from "../assets/images/24.png";
 import Image25 from "../assets/images/25.png";
 import Image26 from "../assets/images/26.png";
+import Image27 from "../assets/images/27.png";
 
 
 
@@ -61,6 +62,7 @@ const Gallery = () => {
           <Image src={Image24} rounded />
           <Image src={Image25} rounded />
           <Image src={Image26} rounded />
+          <Image src={Image27} rounded />
         </Image.Group>
     </Container>
   );

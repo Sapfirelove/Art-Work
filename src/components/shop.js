@@ -19,6 +19,7 @@ import Image15 from "../assets/images/SkullGalaxy.png";
 import Image16 from "../assets/images/StaryBurst.png";
 import Image17 from "../assets/images/TwistintheUniverse.png";
 import Image18 from "../assets/images/WheelOfGalaxies.png";
+import Image19 from "../assets/images/AGlimpseInTheGalaxy.png";
 
 const Shop = () => {
   return (
@@ -127,6 +128,12 @@ const Shop = () => {
               />
             <Image
               src={Image18}
+              rounded
+              target='_blank'
+              href='https://www.redbubble.com/people/MarthaSchiebel'
+              />
+            <Image
+              src={Image19}
               rounded
               target='_blank'
               href='https://www.redbubble.com/people/MarthaSchiebel'
