@@ -1,3 +1,37 @@
+# MarthaDuzzArt Website
+
+![Project Image](./landingpage.png)
+
+> Landing Page
+
+---
+
+### Table of Contents
+You're sections headers will be used to reference location of destination.
+
+- [Description](#description)
+- [React](#react.js)
+
+---
+
+## Description
+
+This website was meant to showcases my artwork as well as my skills within coding a react.js(https://reactjs.org/) website.
+
+#### Technologies
+
+- React.js
+- Node
+- Sematic.UI
+- HTML5
+- CSS3
+
+[Back To The Top](#read-me-template)
+
+---
+
+## React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +76,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+[Back To The Top](#read-me-template)
