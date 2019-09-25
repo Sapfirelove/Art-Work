@@ -24,17 +24,6 @@ class Footer extends React.Component {
 
           <Menu.Item
             as='a'
-            href='https://www.facebook.com/MarthaDuzzArt/'
-            target="/blank"
-            color='teal'
-            active={activeItem === 'facebook'}
-            onClick={this.handleItemClick}
-          >
-            <i className="fa fa-facebook-square fa-3x" aria-hidden="true" />
-          </Menu.Item>
-
-          <Menu.Item
-            as='a'
             href='https://twitter.com/marthaschiebel'
             color='teal'
             target="/blank"
