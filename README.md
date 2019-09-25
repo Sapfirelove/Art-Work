@@ -1,6 +1,6 @@
 # MarthaDuzzArt Website
 
-![Project Image](./landingpage.png)
+![Project Image](file:///Users/martha/Desktop/GitHub%20Readmes/MarthaDuzzArt/LandingPage.png)
 
 > Landing Page
 
