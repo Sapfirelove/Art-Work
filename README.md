@@ -1,6 +1,6 @@
 # MarthaDuzzArt Website
 
-![Project Image](./landingpage.png)
+![Project Image](.https://raw.githubusercontent.com/Sapfirelove/Art-Work/master/LandingPage.png)
 
 > Landing Page
 ---
