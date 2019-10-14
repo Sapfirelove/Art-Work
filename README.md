@@ -9,7 +9,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [React](#react.js)
+- [React](#react)
 
 ---
 
@@ -29,7 +29,7 @@ This website was meant to showcases my artwork as well as my skills within codin
 
 ---
 
-## React.js
+## React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
